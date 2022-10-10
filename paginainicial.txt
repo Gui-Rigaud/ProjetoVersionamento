@@ -5,3 +5,12 @@ git add .
 git commit -m "Descrição do commit"
 
 git log -Mostrar os commits existentes no repositório
+
+
+
+Fluxo de trabalho com repositório remoto
+
+Trabalhar no código
+git add .
+git commit -m "Descrição do commit"
+git push origin main
